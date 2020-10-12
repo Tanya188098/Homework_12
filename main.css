@@ -1,0 +1,23 @@
+
+.form-check-inline {
+    margin-top: 15px;
+}
+
+.form-check-label{
+    margin: 0px 5px;
+}
+
+.btn{
+    margin-top: 20px;
+    width: 100px;
+}
+
+.col-12 {
+    display: flex;
+    justify-content: center;
+}
+
+#btnCreate {
+    width: 150px;
+}
+
